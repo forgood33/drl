@@ -45,3 +45,7 @@ The following hyperparameters are used.
 Use a priority algorithm for sampling from the replay buffer instead of uniformly sampling. 
 
 Experiment with different stochastic policies to improve exploration.
+
+## References
+
+[Deep Deterministic Policy Gradients in TensorFlow](https://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html), Patrick Emami, 2016
